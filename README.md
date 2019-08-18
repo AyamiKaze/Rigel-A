@@ -1,5 +1,5 @@
 # Rigel-A
 Don't you know what I think now???  
-OH1 
+![image](http://github.com/MZSHproject/Rigel-A/raw/master/男人都是大猪蹄子.png) 
 ## Sample  
-OH2
+![image](http://github.com/MZSHproject/Rigel-A/raw/master/SAMPLE.PNG) 
